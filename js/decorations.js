@@ -23,9 +23,9 @@ const settings = {
 
     additiveCount: 18,
 
-    minSize: 64,
+    minSize: 192,
 
-    maxSize: 192,
+    maxSize: 384,
 
     minOpacity: 1,
 
