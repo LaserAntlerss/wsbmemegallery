@@ -23,13 +23,13 @@ const settings = {
 
     additiveCount: 18,
 
-    minSize: 32,
+    minSize: 64,
 
-    maxSize: 96,
+    maxSize: 192,
 
-    minOpacity: 0.35,
+    minOpacity: 1,
 
-    maxOpacity: 0.85
+    maxOpacity: 1
 
 };
 
