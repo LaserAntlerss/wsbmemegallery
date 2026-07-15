@@ -555,6 +555,6 @@ img{
 
 #decorations .additive{
 
-    mix-blend-mode:screen;
+    mix-blend-mode:lighten;
 
 }
